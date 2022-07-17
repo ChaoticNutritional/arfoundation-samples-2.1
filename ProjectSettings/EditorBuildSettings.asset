@@ -56,6 +56,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleAR Scene.unity
     guid: d8fece8733876b14eac6d378a4cc3fc8
+  - enabled: 1
+    path: Assets/ARFoundation_1.unity
+    guid: 7d65e378d9df34705b65b100afc41fd7
   m_configObjects:
     com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: 2d5fb8e61571b4e3897f221189089fd6,
       type: 2}
